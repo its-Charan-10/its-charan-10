@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=YOUR_USERNAME&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Animated Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=CHARAN TEJA&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Animated Banner">
 </p>
 
 ---
